@@ -10,16 +10,14 @@ public class App
     {
     	System.out.println( "Hello, World!" );
 
-        System.out.println( "Ky-ky!" );
-
 		int a = 78874;
-        
 		int b = 6;
 
         // ...Some important comment...
     }
 
-    public int sum(int a, int b) {
+    public int add(int a, int b)
+    {
 		return a + b;
 	}
 }
