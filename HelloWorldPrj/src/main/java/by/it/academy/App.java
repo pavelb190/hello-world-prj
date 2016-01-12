@@ -19,7 +19,7 @@ public class App
         // ...Some important comment...
     }
 
-    public int sum(int a, int b) {
+    public int plusplus(int a, int b) {
 		return a + b;
 	}
 }
