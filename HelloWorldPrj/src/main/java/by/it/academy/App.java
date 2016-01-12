@@ -11,7 +11,7 @@ public class App
     	System.out.println( "Hello, World!" );
 
         System.out.println( "Ky-ky!" );
-		int a = 567464455;
+		int a = -1;
 		int b = 6;
 
         // ...Some important comment...
